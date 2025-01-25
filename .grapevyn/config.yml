@@ -1,0 +1,12 @@
+
+name: Latest site
+version: 1.0.0
+meta:
+  createdAt: 2025-01-25T00:09:08.651Z
+  updatedAt: 2025-01-25T00:09:08.651Z
+  author: ""
+  description: ""
+pages:
+  - id: home
+    name: Home
+    path: /
